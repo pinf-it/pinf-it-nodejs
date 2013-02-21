@@ -1,9 +1,9 @@
 {
-	"name": "pinf-it",
-	"version": "0.1.0",
-	"pm": "sm",
-	"main": "./index.js",
+    "name": "pinf-it",
+    "version": "0.1.1",
+    "pm": "sm",
+    "main": "./index.js",
     "mappings": {
-    	"pinf-it-server": "github.com/pinf-it/pinf-it-server/~0.1.0"
-	}
+        "pinf-it-server": "github.com/pinf-it/pinf-it-server/~0.1.0"
+    }
 }
