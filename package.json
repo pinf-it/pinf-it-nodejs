@@ -1,6 +1,6 @@
 {
     "name": "pinf-it",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "pm": "npm",
     "publish": true,
     "main": "./index.js",
@@ -8,6 +8,6 @@
         "pinf-it-server": "github.com/pinf-it/pinf-it-server/~0.1.0"
     },
     "scripts": {
-		"postinstall": "sm install"    	
+        "postinstall": "sm install"
     }
 }
