@@ -6,8 +6,5 @@
     "main": "./index.js",
     "mappings": {
         "pinf-it-server": "github.com/pinf-it/pinf-it-server/~0.1.0"
-    },
-    "scripts": {
-        "postinstall": "sm install"
     }
 }
